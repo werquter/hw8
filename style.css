@@ -1,0 +1,43 @@
+
+*{
+    margin: 0;
+    padding: 0;
+box-sizing: border-box;
+}
+.block{
+    width: 1000px;
+    height: 400px;
+    background-color: dodgerblue;
+    margin: 230px 200px;
+    border-radius: 10px;
+    position: relative;
+}
+.head{
+    color: aliceblue;
+    padding: 60px 0px 20px 60px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+.parag{
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    margin: 10px 70px 30px 60px;
+
+}
+img{
+    position: absolute;
+    bottom: 0;
+    right: 20px;
+}
+.butt{
+  
+    width: 130px;
+    height: 35px;
+    background: none;
+    border: none;
+    background-color: aliceblue;
+    color: rgb(9, 84, 158);
+    margin:20px 60px 0px 60px;
+    border-radius: 10px;
+}
